@@ -9,6 +9,6 @@ public enum Level {
 	VI,
 	VII;
 
-	private Level() {
+	Level() {
 	}
 }
